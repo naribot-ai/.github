@@ -1,4 +1,4 @@
-# NariBot — Paise Ki Saathi 🚺💰
+# NariBot - Paise Ki Saathi 🚺💰
 
 **NariBot** is a Digital Public Infrastructure (DPI) initiative dedicated to building accessible livelihood pathways for women job seekers and micro-entrepreneurs across India.
 
