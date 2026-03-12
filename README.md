@@ -1,32 +1,17 @@
-# NariBot Core (α) 🚺💰
+# NariBot — Paise Ki Saathi 🚺💰
 
-> **Navigating livelihood pathways for the next billion through vernacular AI and low-bandwidth channels.**
+**NariBot** is a Digital Public Infrastructure (DPI) initiative dedicated to building accessible livelihood pathways for women job seekers and micro-entrepreneurs across India.
 
-NariBot is a Digital Public Infrastructure (DPI) project designed to bridge the economic divide for women job seekers and micro-entrepreneurs. While most AI assistants require smartphones and high-speed data, NariBot is built to deliver intelligence over **USSD, IVR, and feature-phone-friendly interfaces.**
+### 🌟 Our Mission
+We bridge the digital divide by delivering AI-led mentorship and scheme discovery via low-bandwidth interfaces like **USSD, IVR, and feature-phone-friendly chat.**
 
-## 🧩 The Challenge
-In rural and peri-urban India, the "digital divide" is an interface problem. NariBot solves for:
-* **Connectivity:** Works on zero-data environments (GSM/USSD signaling).
-* **Literacy:** Voice-first interaction (IVR) for non-text users.
-* **Context:** Vernacular AI logic (Hindi, Marathi, Kannada, Tamil) that understands local livelihood ecosystems.
+### 🏗️ Ecosystem
+Our work is modular and designed for scale:
+* **[naribot-core](https://github.com/naribot-ai/naribot-core):** The main orchestration engine and AI logic.
+* **Knowledge Hub:** Deep dives, pilot data, and project updates at [naribot.info](https://naribot.info).
 
-## 🛠️ Tech Stack
-We use a "Pro-Code" foundation to ensure high availability and DPI-grade scale:
-* **Intelligence:** Google Gemini (Generative AI)
-* **Compute:** Cloud Run (Serverless)
-* **Data & Auth:** Firebase Ecosystem
-* **Interface Abstraction:** Sovereign-ready adapters for Telecom/Voice gateways.
-
-## 🏗️ Repository Structure
-This core repository acts as the "brain," coordinating:
-1. **Livelihood Intelligence:** Specialized prompt logic for job matching and scheme discovery.
-2. **Channel Routing:** Logic to handle the hand-off between USSD menus and Voice sessions.
-3. **Regional Datasets:** Localized SHG mapping and livelihood references.
-
-## 🚧 Status: Pilot Stage (Q1 2026)
-We are currently in an active pilot phase with 1,000+ entrepreneurs. 
-* **Current Focus:** Hardening USSD menu-tree logic and refining voice-bot latency.
-* **Build in Public:** Follow our progress and technical deep dives at [naribot.info](https://naribot.info).
+### 🤝 Build in Public
+We are currently in the pilot phase, working with entrepreneurs in UP, Maharashtra, and Karnataka. We welcome collaborators who are passionate about the intersection of **Generative AI and Social Impact.**
 
 ---
-*Built by BossMa Studio Works — Empowering livelihoods through accessible tech.*
+*A project by BossMa Studio Works.*
