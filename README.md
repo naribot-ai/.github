@@ -1,3 +1,8 @@
+![Build in Public](https://img.shields.io/badge/build-in%20public-orange)
+![AI for Social Impact](https://img.shields.io/badge/AI-social%20impact-blue)
+![DPI Aligned](https://img.shields.io/badge/DPI-aligned-green)
+
+
 # NariBot – Paise Ki Saathi 🚺💰
 
 **NariBot** is an AI-powered livelihood navigation system designed to support women across India’s grassroots economy.
