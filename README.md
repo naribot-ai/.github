@@ -172,12 +172,12 @@ https://bossma.in
 
 ---
 
-## Follow the Journey
+## Know More
 
 Knowledge Hub  
 https://naribot.info
 
-User Portal *(coming soon)*  
+User Portal
 https://naribot.in
 
 ---
