@@ -11,7 +11,7 @@ Built with a **Digital Public Infrastructure (DPI) mindset**, NariBot aims to ma
 
 The project is being built in public as part of a broader effort to design **inclusive AI infrastructure for the last mile.**
 
-**NariBot** is a **real-world last-mile deployment use case for AI infrastructure**, built **by a woman founder, from India, for women in Bharat and the world!**💃🏽🔱**
+**NariBot** is a **real-world last-mile deployment use case for AI infrastructure**, built **by a woman founder from India, for women in Bharat and the world**💃🏽🔱
 
 ---
 
